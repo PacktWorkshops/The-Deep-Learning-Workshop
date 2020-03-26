@@ -8,4 +8,13 @@ To get started with the project files, you'll need to:
 * Install Python on Windows, Mac, Linux
 * Install TensorFlow 2.0 on Windows, Mac, Linux
 
-## About The Deep Learning with TensorFlow Workshop
+## About The Deep Learning Workshop
+What You Will Learn · Get an overview of the building blocks of deep learning
+
+* Develop multilayer deep neural networks with TensorFlow
+
+* Explore CNNs and their use in an image replication model
+
+* Learn the popular deep learning-based approaches for word embeddings
+
+* Use deep learning approaches to leverage data sequences in applications
