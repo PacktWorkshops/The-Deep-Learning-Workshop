@@ -1,4 +1,4 @@
-# The-Deep-Learning-With-TensorFlow-Workshop
+# The-Deep-Learning-Workshop
 
 This is the repository for The Deep Learning with TensorFlow Workshop, published by Packt. It contains all the supporting project files necessary to work through the course from start to finish.
 
