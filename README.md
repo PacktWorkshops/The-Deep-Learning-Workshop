@@ -8,5 +8,4 @@ To get started with the project files, you'll need to:
 * Install Python on Windows, Mac, Linux
 * Install TensorFlow 2.0 on Windows, Mac, Linux
 
-
-About The Deep Learning with TensorFlow Workshop
+## About The Deep Learning with TensorFlow Workshop
