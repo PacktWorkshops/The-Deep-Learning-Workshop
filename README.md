@@ -4,6 +4,9 @@ This is the repository for The Deep Learning with TensorFlow Workshop, published
 
 ## Requirements and Setup
 To get started with the project files, you'll need to:
-1 Install Jupyter on Windows, Mac, Linux
-2 Install Python on Windows, Mac, Linux
-3 Install TensorFlow 2.0 on Windows, Mac, Linux
+* Install Jupyter on Windows, Mac, Linux
+* Install Python on Windows, Mac, Linux
+* Install TensorFlow 2.0 on Windows, Mac, Linux
+
+
+About The Deep Learning with TensorFlow Workshop
