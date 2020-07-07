@@ -96,7 +96,7 @@ nbformat==5.0.4
 
 notebook==6.0.3
 
-nltk
+nltk==3.5
 
 numpy==1.18.1
 
