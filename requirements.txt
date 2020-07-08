@@ -96,8 +96,6 @@ nbformat==5.0.4
 
 notebook==6.0.3
 
-nltk==3.5
-
 numpy==1.18.1
 
 oauthlib==3.1.0
@@ -197,4 +195,8 @@ widgetsnbextension==3.5.1
 wrapt==1.12.0
 
 zipp==3.1.0
+
+nltk
+
+nltk_data
 
