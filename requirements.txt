@@ -82,7 +82,7 @@ tensorboard==2.1.1
 tensorflow-datasets==2.1.0
 tensorflow-estimator==2.1.0
 tensorflow-metadata==0.21.1
-tensorflow==2.1.0
+tensorflow==2.4.0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
