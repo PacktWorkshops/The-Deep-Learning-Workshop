@@ -11,9 +11,9 @@ This is the repository for [The Deep Learning Workshop](https://www.amazon.com/D
 <a href="https://www.amazon.com/Deep-Learning-Workshop-next-generation-TensorFlow-ebook/dp/B08Q8GP7DJ/ref=sr_1_2?dchild=1&keywords=The%20Deep%20Learning%20Workshop&qid=1611054533&sr=8-2&utm_source=GitHub&utm_medium=Repository&utm_campaign=9781801075169&utm_term=Deep%20Learning&utm_content=The%20Deep%20Learning%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Deep%20Learning%20Workshop.png" alt="The Deep Learning Workshop" height="290px" width="230px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
-* Install Jupyter on Windows, Mac, Linux
-* Install Python on Windows, Mac, Linux
-* Install TensorFlow 2.0 on Windows, Mac, Linux
+* Install Jupyter on [Windows](https://jupyter.org/install), [Mac](https://jupyter.org/install), [Linux](https://jupyter.org/install)
+* Install Python on [Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/mac-osx/), [Linux](https://www.python.org/downloads/source/)
+* Install TensorFlow 2.0 on [Windows](https://www.tensorflow.org/install), [Mac](https://www.tensorflow.org/install), [Linux](https://www.tensorflow.org/install)
 
 ## About The Deep Learning Workshop
 With [The Deep Learning Workshop](https://www.amazon.com/Deep-Learning-Workshop-next-generation-TensorFlow-ebook/dp/B08Q8GP7DJ/ref=sr_1_2?dchild=1&keywords=The%20Deep%20Learning%20Workshop&qid=1611054533&sr=8-2&utm_source=GitHub&utm_medium=Repository&utm_campaign=9781801075169&utm_term=Deep%20Learning&utm_content=The%20Deep%20Learning%20Workshop), you’ll learn about essential deep learning concepts, such as image recognition, text embedding, and neural networks, all so that you can build your own smart machine learning models. You'll be able to learn at your own pace with the help of interesting activities and hands-on exercises that will keep you hooked throughout the book.	
