@@ -59,7 +59,7 @@ pillow==7.0.0
 prometheus-client==0.7.1
 promise==2.3
 prompt-toolkit==3.0.4
-protobuf==3.11.3
+protobuf==3.18.3
 ptyprocess==0.6.0; os_name != 'nt'
 pyasn1-modules==0.2.8
 pyasn1==0.4.8
